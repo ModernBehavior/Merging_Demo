@@ -1,1 +1,2 @@
 THis is a text file to hold some informaatoin 
+Now I am adding a new line
